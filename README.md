@@ -7,7 +7,7 @@ I'm a Software Engineer, Web Developer, and UI Designer currently studying at [S
 **Here's a quick summary about me**:
 
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently learning JavaScript, React and Python.
+- 🌱 I’m currently learning TypeScript, React and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 📫 You can contact me by emailing Williamseisenherz@gmail.com.
 - 🌝 Hobbies: Music, Video games, [Chess](https://www.chess.com/member/williamseise), Reading & Drawing.
