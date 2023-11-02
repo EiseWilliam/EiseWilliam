@@ -21,5 +21,5 @@ I'm a Software Engineer, Web Developer, and UI Designer currently studying at [S
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EISEWILLIAM&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=EiseWilliam&show_icons=true&include_all_commits=true&hide_border=true" alt="William's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EiseWilliam&langs_count=8&layout=compact&hide_border=true" alt="William's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=EiseWilliam&show_icons=true&include_all_commits=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=EISEWILLIAM&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="William's GitHub stats" /> | <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=EiseWilliam&langs_count=8&layout=compact&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=EISEWILLIAM&theme=radical&hide_border=true)https://github-readme-streak-stats.herokuapp.com/?user=EISEWILLIAM&theme=radical&hide_border=true" alt="William's GitHub stats" /> |
 | ------------- | ------------- |
