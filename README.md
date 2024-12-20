@@ -6,7 +6,7 @@ I'm a Software Engineer, Web Developer. I'm passionate about solving real world 
 
 **Here's a quick summary about me**:
 
-- 💡 AltSchool Africa Alumus [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
+- 💡 AltSchool Africa Alumnus [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 😊 I’m open for open source projects, hackathons, and mid-level opportunities.
 - 📫 You can contact me by emailing Williamseisenherz@gmail.com.
 - 🌝 Hobbies: Music, Video games, [Chess](https://www.chess.com/member/EiseWilliam), Reading & Drawing.
