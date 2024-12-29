@@ -18,7 +18,7 @@ I'm a Software Engineer, Web Developer. I'm passionate about solving real world 
 
 # 📊 GitHub Stats:
 ![Eisewilliam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eisewilliam&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Eisewilliam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eisewilliam&theme=tokyonight&hide_border=true)
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=EiseWilliam&show_icons=true&include_all_commits=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=EISEWILLIAM&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="William's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EiseWilliam&langs_count=8&layout=compact&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=EISEWILLIAM&theme=radical&hide_border=true" alt="William's GitHub stats" /> |
 | ------------- | ------------- |
